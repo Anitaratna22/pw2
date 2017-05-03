@@ -9,7 +9,7 @@ class KonfigurasiUI extends View
 	
 	public function tampilForm()
 	{
-		include_once 'pages/konfigurasi.php';
+		include_once 'pages/Konfigurasi.php';
 		$this->end();
 	}
 }
