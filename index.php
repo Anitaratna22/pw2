@@ -1,5 +1,9 @@
 <?php 
+include 'view/BerandaUI.php';
 
-	echo "selamat pagi";
+$brd = new BerandaUI();
+
+$brd->tampilLengkap();
+
 
  ?>
