@@ -1,7 +1,7 @@
 <?php 
-include 'view/BerandaUI.php';
+include 'view/UtamaUI.php';
 
-$brd = new BerandaUI();
+$brd = new UtamaUI();
 
 $brd->tampilLengkap();
 

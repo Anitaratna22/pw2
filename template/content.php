@@ -1,4 +1,12 @@
- <h2>
+        <div class="row">
+
+            <!-- Blog Entries Column -->
+            <div class="col-md-8">
+
+                <!-- First Blog Post -->
+
+
+                <h2>
                     <a href="#">Blog Post Title</a>
                 </h2>
                 <p class="lead">

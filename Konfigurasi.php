@@ -1,7 +1,7 @@
 <?php 
-include 'view/BerandaUI.php';
+include 'view/UtamaUI.php';
 
-$konf = new BerandaUI();
+$konf = new UtamaUI();
 
 $konf->tampilLengkap();
 
